@@ -1,7 +1,11 @@
 img{
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 65%;
+  margin-top: 15%;
 }
 .navbar-default {
-    background: none;
+  background: none;
+}
+.header{
+  height: 700px;
+  background: #2883AEl;
 }
